@@ -10,7 +10,7 @@ A comprehensive Java Swing application demonstrating Model-View-Controller archi
 - **DAO Pattern**: Database access abstraction
 - **Repository Pattern**: Data persistence layer
 
-## 📊 Features
+## Features
 
 ### Three Interactive Views
 - **Run Simulation**: Execute new PCB assembly simulations
@@ -23,7 +23,7 @@ A comprehensive Java Swing application demonstrating Model-View-Controller archi
 - Multi-board type support (Test, Sensor, Gateway)
 - Statistical success rate analysis
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java 8 or higher
@@ -31,5 +31,5 @@ A comprehensive Java Swing application demonstrating Model-View-Controller archi
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/PCB-Assembly-Simulation-MVC.git
+git clone https://github.com/omuili/PCB-Assembly-Simulation-MVC.git
 cd PCB-Assembly-Simulation-MVC
