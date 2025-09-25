@@ -1,5 +1,3 @@
-## **README.md**
-
 ```markdown
 # PCB Assembly Simulation - MVC Architecture
 
